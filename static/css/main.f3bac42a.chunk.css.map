@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAEA,EACE,QAAS,CACT,SAAU,CACV,qBACF","file":"main.f3bac42a.chunk.css","sourcesContent":["@import \"~antd/dist/antd.css\";\r\n\r\n* {\r\n  margin: 0;\r\n  padding: 0;\r\n  box-sizing: border-box;\r\n}\r\n"]}
